@@ -20,3 +20,10 @@ background-color: darkcyan;
 text-align: right;
 }
  
+/* FD */
+th, td{
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  font-family: Arial;
+}
